@@ -57,19 +57,19 @@ I really begun my career as a mechanical engineer, but over the past few a long 
 
 
 <a href="https://nodejs.org" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="40" width="120" />
+  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </a>
 
 
 <a href="https://expressjs.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" height="40" width="120" />
+  <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express"  />
 </a>
 
    ### 📈 Database
    
 
 <a href="https://www.mongodb.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40" width="120" />
+  <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"  />
 </a>
 
 
