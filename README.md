@@ -5,7 +5,7 @@ I really begun my career as a mechanical engineer, but over the past few a long 
 
 ## 🛠️ Tech Stack<a href="https://www.w3.org/html/" target="blank">
 
-## 📚 Frontend
+   #### 📚 Frontend
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
 </a>
 <a href="https://www.w3schools.com/css/" target="blank">
@@ -18,7 +18,7 @@ I really begun my career as a mechanical engineer, but over the past few a long 
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="40" width="40" />
 </a>
 
-## 📚 Backend
+   #### 📚 Backend
 
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
@@ -28,7 +28,7 @@ I really begun my career as a mechanical engineer, but over the past few a long 
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
 </a>
 
-## 📚 Database
+   #### 📚 Database
 <a href="https://www.mongodb.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
 </a>
