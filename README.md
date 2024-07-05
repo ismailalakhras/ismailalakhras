@@ -7,7 +7,7 @@ I really begun my career as a mechanical engineer, but over the past few a long 
 ## 🛠️ Tech Stack<a href="https://www.w3.org/html/" target="blank">
 
 ### :octocat: Frontend
-[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40)]
+[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40)](https://angel.co/u/ismailalakhras)
 
 
 
