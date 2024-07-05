@@ -47,7 +47,8 @@ I really begun my career as a mechanical engineer, but over the past few a long 
 
 ## 💻Coding Activity <a href="https://www.w3.org/html/" target="blank">
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3root&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="g3root stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3root&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&layout=compact" alt="g3root stats card" />
+</p>
 <p>&nbsp;
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailalakhras&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="Ismail Alakhras stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailalakhras&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true" alt="Ismail Alakhras stats card" />
+</p>
