@@ -24,9 +24,10 @@ I really begun my career as a mechanical engineer, but over the past few a long 
    
    <a href="https://redux.js.org" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
-   </a> 
+   </a>
    
-   </p>
+   [![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/ismailalakhras)
+</p>
 
    ### ⌨️ Backend
 
