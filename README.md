@@ -6,8 +6,9 @@ I really begun my career as a mechanical engineer, but over the past few a long 
 ## 🛠️ Tech Stack<a href="https://www.w3.org/html/" target="blank">
 
    ### :octocat: Frontend
+   
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
-</a>
+
 <a href="https://www.w3schools.com/css/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" />
 </a>
@@ -18,7 +19,7 @@ I really begun my career as a mechanical engineer, but over the past few a long 
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="40" width="40" />
 </a>
 
-   ### 📚 Backend
+   ### ⌨️ Backend
 
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
