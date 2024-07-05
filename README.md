@@ -7,13 +7,15 @@ I really begun my career as a mechanical engineer, but over the past few a long 
 
 ### :octocat: Frontend
 
-/*
+
 <!--
 
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
  </a>
+
+
    
    <a href="https://www.w3schools.com/css/" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
@@ -30,7 +32,7 @@ I really begun my career as a mechanical engineer, but over the past few a long 
    [![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/ismailalakhras)
 </p>
 -->
-*/
+
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
@@ -53,6 +55,7 @@ I really begun my career as a mechanical engineer, but over the past few a long 
     <img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white" alt="AngelList" />
   </a>
 </p>
+
    ### ⌨️ Backend
 
 <a href="https://nodejs.org" target="blank">
