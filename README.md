@@ -50,25 +50,26 @@ I really begun my career as a mechanical engineer, but over the past few a long 
   <a href="https://redux.js.org" target="_blank">
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   </a>
-
-  <a href="https://angel.co/u/ismailalakhras" target="_blank">
-    <img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white" alt="AngelList" />
-  </a>
+  
 </p>
 
    ### ⌨️ Backend
 
-<a href="https://nodejs.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
+
+<a href="https://nodejs.org" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="40" width="120" />
 </a>
 
-<a href="https://expressjs.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
+
+<a href="https://expressjs.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" height="40" width="120" />
 </a>
 
    ### 📈 Database
-<a href="https://www.mongodb.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
+   
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40" width="120" />
 </a>
 
 
