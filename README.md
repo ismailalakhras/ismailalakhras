@@ -1,6 +1,5 @@
 # Hi, I'm Ismail! 👋
 ## 📚 About Me
-[![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/ismailalakhras)
 
 I really begun my career as a mechanical engineer, but over the past few a long time I've found my passion in website development. I'm truly energized to proceed upgrading my programming aptitudes, I feel like I've at last found the field that really adjusts with my interface and gifts. 
 
@@ -8,7 +7,7 @@ I really begun my career as a mechanical engineer, but over the past few a long 
 
 ### :octocat: Frontend
 
-[![HTML5][]](https://www.w3.org/html/)
+
 
 <p align="left">
    <a href="https://www.w3.org/html/" target="_blank"> 
