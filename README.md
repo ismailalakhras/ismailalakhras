@@ -21,9 +21,9 @@ I really begun my career as a mechanical engineer, but over the past few a long 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
    </a> 
 
-     <a href="https://www.w3schools.com/jquery/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/> 
-   </a> 
+ <a href="https://jquery.com/" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
+</a>
    
    <a href="https://reactjs.org/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
