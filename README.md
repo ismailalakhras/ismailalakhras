@@ -65,12 +65,22 @@ I really begun my career as a mechanical engineer, but over the past few a long 
   <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express"  />
 </a>
 
+<a href="https://laravel.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+</a>
+
+
    ### 📈 Database
    
 
 <a href="https://www.mongodb.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"  />
 </a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</a>
+
 
 
 
